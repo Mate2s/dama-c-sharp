@@ -1,0 +1,5 @@
+C:\Users\Matej\Dropbox\Public\uro\cviceni\Draughts\AssemblyLibrary\bin\Debug\AssemblyLibrary.dll
+C:\Users\Matej\Dropbox\Public\uro\cviceni\Draughts\AssemblyLibrary\bin\Debug\AssemblyLibrary.pdb
+C:\Users\Matej\Dropbox\Public\uro\cviceni\Draughts\AssemblyLibrary\obj\Debug\AssemblyLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Matej\Dropbox\Public\uro\cviceni\Draughts\AssemblyLibrary\obj\Debug\AssemblyLibrary.dll
+C:\Users\Matej\Dropbox\Public\uro\cviceni\Draughts\AssemblyLibrary\obj\Debug\AssemblyLibrary.pdb
