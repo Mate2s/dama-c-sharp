@@ -1,1 +1,1 @@
-# Dáma psana v c#
+# Dáma psaná v c#
